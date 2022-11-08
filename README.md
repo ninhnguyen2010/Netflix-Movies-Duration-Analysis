@@ -7,7 +7,7 @@
 ## Line Graph that shows the correlation between Years and Durations 
 ![Unknown-3](https://user-images.githubusercontent.com/114648243/200492028-7be42317-8b17-4961-ad3a-c6b25f79fed5.png)
 
-## Scatter Plot that shows 
+## Scatter Plot that shows the correlation between Years and Durations 
 ![Unknown-2](https://user-images.githubusercontent.com/114648243/200492145-49b3e846-4683-4fb5-be7f-b5a666ca140f.png)
 
 ## Scatter Plot with Colors by Genre 
